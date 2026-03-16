@@ -47,3 +47,15 @@ To reproduce the analysis:
 
 Josefina Vogt  
 Digital Humanities Project
+
+## Required R Packages
+
+The following R packages are required to run the scripts:
+
+tidyverse  
+tidytext  
+quanteda  
+ggplot2  
+caret  
+tokenizers  
+stringr
